@@ -15,4 +15,7 @@ elif var_in <= 2 and var_fl > 60:
 elif var_in <= 2 and var_fl <50:
       print("Don't watch it. It is a waste of time")
 
+else:
+        print("")
+
 
